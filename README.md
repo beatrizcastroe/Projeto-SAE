@@ -25,3 +25,7 @@ Meu nome é Beatriz Castro, tenho 22 anos e no bootcamp da Generation Brasil. L�
 ### Pontos a melhorar
 
 Visto todo o desenvolvimento do projeto, minhas próximas melhorias serão na parte de encapsulamento de dados, segurança da aplicação e alguns redrects.
+
+### Adicionais
+
+Para demonstrar um pouco do meu conhecimento em java, na branch 'java' se enconta a parte back-end da aplicação em JAVA com o framework SpringBoot, utilizando Spring Security e testes de API no Postman. A aplicação foi feita na IDE Eclipse. 
