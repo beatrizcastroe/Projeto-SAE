@@ -11,12 +11,12 @@ Este projeto faz parte do processo seletivo da KaBum!: um desafio técnico fulls
 5. Na tabela "clientes" foram adicionados os atributos: id, nome, cpf, dataNasc, rg;
 6. Na tabela "enderecos" foram adicionados os atributos: id, endereco, numero, comp (complemento), bairro, cep, cidade, estado, idCliente;
 7. Foi utilizado o framework bootstrap no front-end, sendo assim utilizei também JavaScript para algumas validações. 
-8. O projeto foi rganizado de acordo com a arquitetura MVC.
+8. O projeto foi organizado de acordo com a arquitetura MVC.
 9. A metodologia de organização de tempo foi baseada na SCRUM, mesmo que com apenas 1 pessoa envolvida.
 
 ## Sobre a autora
 
-Meu nome é Beatriz Castro, tenho 22 anos e no bootcamp da Generation Brasil. Lá, além dos meus aprimoramentos nas soft-skills, a parte técnica foi voltada para JAVA e seus frameworks. Sendo assim, diante da proposta do processo técnico da KaBum!, me vi desafiada em aprender uma nova linguagem e, com muita dedicação, persistencia e proatividade, me vi nessa semana aprendendo php e conseguindo executar a proposta. Me sinto muito feliz e realizada de poder fazer parte dessa empresa que admiro e agradeço a oportunidade de participar, pois aprendi muito com o trabalho, e acredito que ao ser admitida, aprenderei muito mais! 
+Meu nome é Beatriz Castro, tenho 22 anos e estou finalizando o bootcamp da Generation Brasil. Lá, além dos meus aprimoramentos nas soft-skills, a parte técnica foi voltada para JAVA e seus frameworks. Sendo assim, diante da proposta do processo técnico da KaBum!, fui desafiada a desenvolver em uma nova linguagem e, com muita dedicação, persistencia e proatividade, me vi nessa semana aprendendo php e conseguindo executar a proposta. Me sinto muito feliz e realizada de poder fazer parte dessa empresa que admiro e agradeço a oportunidade de participar, pois aprendi muito com o trabalho, e acredito que ao ser admitida, aprenderei muito mais! 
 
 ## Projeto
 
