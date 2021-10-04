@@ -16,7 +16,7 @@ Este projeto faz parte do processo seletivo da KaBum!: um desafio técnico fulls
 
 ## Sobre a autora
 
-Meu nome é Beatriz Castro, tenho 22 anos e no bootcamp da Generation Brasil. Lá, além dos meus aprimoramentos nas soft-skills, a parte técnica foi voltada para JAVA e seus frameworks. Sendo assim, diante da proposta do processo técnico da KaBum!, me vi desafiada em aprender uma nova linguagem e, com muita dedicação, persistencia e proatividade, me vi nessa semana aprendendo php e conseguindo executar a proposta. Me sinto muito feliz e realizada de poder fazer parte dessa empresa que admiro e agradeço a oportunidade de participar, pois aprendi muito com ele. 
+Meu nome é Beatriz Castro, tenho 22 anos e no bootcamp da Generation Brasil. Lá, além dos meus aprimoramentos nas soft-skills, a parte técnica foi voltada para JAVA e seus frameworks. Sendo assim, diante da proposta do processo técnico da KaBum!, me vi desafiada em aprender uma nova linguagem e, com muita dedicação, persistencia e proatividade, me vi nessa semana aprendendo php e conseguindo executar a proposta. Me sinto muito feliz e realizada de poder fazer parte dessa empresa que admiro e agradeço a oportunidade de participar, pois aprendi muito com o trabalho, e acredito que ao ser admitida, aprenderei muito mais! 
 
 ## Projeto
 
