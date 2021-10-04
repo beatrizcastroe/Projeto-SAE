@@ -6,7 +6,7 @@ Este projeto faz parte do processo seletivo da KaBum!: um desafio técnico fulls
 
 1. Durante esse projeto, foi utilizado o aplicativo XAMPP onde iniciei o servidor apache e o MySQL. 
 2. Dentro da pasta xampp -> htdocs foi criada a pasta do projeto SAE, pois assim ele é hospedado no apache server na porta 'localhost/SAE', sendo neste local o index.
-3. No phpMyAdmin foi criada a database "db_empresa", as tabelas "usuarios", "clientes" e "endereços" (este foi criada uma foreign key idCliente que faz o relacionamento de 1 cliente para N endereços).
+3. No phpMyAdmin foi criada a database "db_empresa", as tabelas "usuarios", "clientes" e "endereços" (este foi criada uma foreign key idCliente que faz o relacionamento de 1 cliente para N endereços). Este banco de dados está previamente criado na pasta assets/db e pode ser utilizado para teste.
 4. Na tabela "usuarios" foram adicionados os atributos: id, nome, email, senha;
 5. Na tabela "clientes" foram adicionados os atributos: id, nome, cpf, dataNasc, rg;
 6. Na tabela "enderecos" foram adicionados os atributos: id, endereco, numero, comp (complemento), bairro, cep, cidade, estado, idCliente;
